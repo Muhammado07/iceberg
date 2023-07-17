@@ -999,7 +999,7 @@ input[type="number"] {
   margin: 0 auto;
   background: rgba(255, 255, 255, 0.2);
   padding: 50px 30px;
-  width: 50%;
+  width: 60%;
   margin: 0 auto;
   border-radius: 5px;
   backdrop-filter: blur(3px);
@@ -1053,6 +1053,10 @@ input[type="number"] {
   justify-content: center;
   -webkit-box-align: center;
   align-items: center;
+}
+.help-links .links .sup a .icon img {
+  width: 36px;
+  height: 36px;
 }
 .help-links .links .sup a .text {
     padding-left: 10px;
